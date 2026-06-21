@@ -1,5 +1,5 @@
 Simple Portfolio Website (HTML)
-LIVE: https://balamurugan1503.github.io/assign/
+LIVE: https:https://balamurugan1503.github.io/SIMPLE_PORTFOLIO/
 
 # Simple Portfolio Website
 
